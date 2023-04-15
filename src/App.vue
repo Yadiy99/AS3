@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div>
     <navbar-component></navbar-component>
     <main class="profile-page">
-      <section class="relative block" style="height: 500px; width: 700px;">
+      <section class="relative block" style="height: 500px;">
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
           style='background-image: url("background.jpg");'
@@ -92,7 +92,9 @@ import HelloWorld from './components/HelloWorld.vue'
                 <div class="flex flex-wrap justify-center">
                   <div class="w-full lg:w-9/12 px-4">
                     <p class="mb-4 text-lg leading-relaxed text-gray-800">
-                      I take it seriously when it comes to my club. I tried my best to teach them everything i know.
+                      A Vice-President of the PB Basketball Club. Yadiy takes this position seriously.
+                      He tries to teach and advise all his members. He cares about his members and 
+                      treats them fairly. He will not give up on his members.
 
                     </p>
                     
