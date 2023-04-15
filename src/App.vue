@@ -95,11 +95,9 @@ import HelloWorld from './components/HelloWorld.vue'
                 <div class="flex flex-wrap justify-center">
                   <div class="w-full lg:w-9/12 px-4">
                     <p class="mb-4 text-lg leading-relaxed text-gray-800">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                      A Vice-President of the PB Basketball Club. Yadiy takes this position seriously.
+                      He tries to teach and advise all his members. He cares about his members and 
+                      treats them fairly. He will not give up on his members.
                     </p>
                     
                   </div>
