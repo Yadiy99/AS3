@@ -58,7 +58,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   <div class="relative" style="">
                     <img
                       alt="..."
-                      src="yad.jpeg "
+                      src="./assets/yad.jpeg "
                       class="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16"
                       style="max-width: 110px; "
                     />
@@ -78,7 +78,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   <i
                     class="fas fa-map-marker-alt mr-2 text-lg text-gray-500"
                   ></i>
-                  DWDT07 - 21FTT1747
+                  DWDT07 - Bahit
                 </div>
                 <div class="mb-2 text-gray-700 mt-10">
                   <i class="fas fa-briefcase mr-2 text-lg text-gray-500"></i
