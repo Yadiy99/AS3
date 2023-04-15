@@ -49,15 +49,12 @@ import HelloWorld from './components/HelloWorld.vue'
           <div
             class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg -mt-64"
           >
-<<<<<<< HEAD
+
             <div class="px-6" style="background-color: antiquewhite;">
-=======
-            <div class="px-6" style="background-color: antiquewhite;>
->>>>>>> 5c026bf7d2b10f7c17bdcc5c6b796711d3ae2274
-              <div class="flex flex-wrap justify-center">
+             
+              <div class= "flex flex-wrap justify-center">
                 <div
-                  class="w-full lg:w-3/12 px-4 lg:order-2 flex justify-center"
-                >
+                  class="w-full lg:w-3/12 px-4 lg:order-2 flex justify-center">
                   <div class="relative" style="">
                     <img
                       alt="..."
@@ -99,10 +96,7 @@ import HelloWorld from './components/HelloWorld.vue'
                       A Vice-President of the PB Basketball Club. Yadiy takes this position seriously.
                       He tries to teach and advise all his members. He cares about his members and 
                       treats them fairly. He will not give up on his members.
-<<<<<<< HEAD
 
-=======
->>>>>>> 5c026bf7d2b10f7c17bdcc5c6b796711d3ae2274
                     </p>
                     
                   </div>
